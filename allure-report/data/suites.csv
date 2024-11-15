@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","21330","Login to App as a standard user","Firefox","Fri Nov 15 16:20:10 IST 2024","passed","Fri Nov 15 16:20:32 IST 2024","@smoke: Login as a standard user to verify the products page and logout from the application","TC_01_loginPage.test.js","",""
+"","5411","Login to App as a standard user","Edge","Fri Nov 15 16:20:41 IST 2024","passed","Fri Nov 15 16:20:46 IST 2024","@smoke: Login as a standard user to verify the products page and logout from the application","TC_01_loginPage.test.js","",""
+"","6317","Login to App as a standard user","Chrome","Fri Nov 15 16:20:10 IST 2024","passed","Fri Nov 15 16:20:17 IST 2024","@smoke: Login as a standard user to verify the products page and logout from the application","TC_01_loginPage.test.js","",""
+"","23141","Login to App as a standard user","Safari","Fri Nov 15 16:20:22 IST 2024","passed","Fri Nov 15 16:20:45 IST 2024","@smoke: Login as a standard user to verify the products page and logout from the application","TC_01_loginPage.test.js","",""

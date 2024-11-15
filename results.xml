@@ -1,0 +1,18 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="39.097162">
+<testsuite name="TC_01_loginPage.test.js" timestamp="2024-11-15T10:50:09.242Z" hostname="Chrome" tests="1" failures="0" skipped="0" time="6.317" errors="0">
+<testcase name="@smoke: Login as a standard user to verify the products page and logout from the application › Login to App as a standard user" classname="TC_01_loginPage.test.js" time="6.317">
+</testcase>
+</testsuite>
+<testsuite name="TC_01_loginPage.test.js" timestamp="2024-11-15T10:50:09.242Z" hostname="Firefox" tests="1" failures="0" skipped="0" time="21.33" errors="0">
+<testcase name="@smoke: Login as a standard user to verify the products page and logout from the application › Login to App as a standard user" classname="TC_01_loginPage.test.js" time="21.33">
+</testcase>
+</testsuite>
+<testsuite name="TC_01_loginPage.test.js" timestamp="2024-11-15T10:50:09.242Z" hostname="Safari" tests="1" failures="0" skipped="0" time="23.141" errors="0">
+<testcase name="@smoke: Login as a standard user to verify the products page and logout from the application › Login to App as a standard user" classname="TC_01_loginPage.test.js" time="23.141">
+</testcase>
+</testsuite>
+<testsuite name="TC_01_loginPage.test.js" timestamp="2024-11-15T10:50:09.242Z" hostname="Edge" tests="1" failures="0" skipped="0" time="5.411" errors="0">
+<testcase name="@smoke: Login as a standard user to verify the products page and logout from the application › Login to App as a standard user" classname="TC_01_loginPage.test.js" time="5.411">
+</testcase>
+</testsuite>
+</testsuites>
